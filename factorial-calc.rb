@@ -1,6 +1,6 @@
 =begin 
 
-A.1 Factorial
+ - Factorial
 
 A simple program that takes a single argument, computes the factorial and prints the value on the screen.
 
