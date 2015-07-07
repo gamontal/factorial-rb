@@ -1,7 +1,5 @@
 =begin 
 
- - Factorial
-
 A simple program that takes a single argument, computes the factorial and prints the value on the screen.
 
 1 $ factorial 5
